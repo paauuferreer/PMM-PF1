@@ -1,0 +1,9 @@
+name: pf1
+description: EcoRide - Motor de lògica de vehicles elèctrics.
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  lints: ^4.0.0
